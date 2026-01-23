@@ -14,6 +14,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ## ¿Quien Soy?
 Soy estudiante de Ingenieria en Computacion y Telecomunicaciones de ultimo trimestre por la UAM Lerma
 Desarrollador FrontEnd Jr
