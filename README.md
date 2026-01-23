@@ -17,6 +17,7 @@
 
 ## ¿Quien Soy?
 Soy estudiante de Ingenieria en Computacion y Telecomunicaciones de ultimo trimestre por la UAM Lerma
+
 Desarrollador FrontEnd Jr
 
-### Gracias por visitar mi sitio
+### Gracias por visitar mi sitio.
