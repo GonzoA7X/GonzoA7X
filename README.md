@@ -2,7 +2,7 @@
 ## Titulo 2 
 ### Titulo 3
 
-# Bienvenido a mi Pagina
+# Bienvenido a mi pagina
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-soto-jimenez-249389365/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
