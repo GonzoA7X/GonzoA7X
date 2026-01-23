@@ -1,7 +1,3 @@
-# Titulo 1
-## Titulo 2 
-### Titulo 3
-
 # Bienvenido a mi pagina
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-soto-jimenez-249389365/" target="_blank">
