@@ -22,8 +22,7 @@ de aprendizaje, adaptabilidad y enfoque en resultados.
 ## HABILIDADES TÉCNICAS
 ### Lenguajes: Python (Intermedio), Java, SQL, JavaScript/TypeScript (Básico).
 ### Tecnologías: FastAPI, React, Git, GitHub, Docker, PostgreSQL.
-### Metodologías y Habilidades: Metodologías Ágiles (Scrum), Trabajo en equipo, Troubleshooting, Análisis
-lógico, Adaptabilidad.
+### Metodologías y Habilidades: Metodologías Ágiles (Scrum), Trabajo en equipo, Troubleshooting, Análisis lógico, Adaptabilidad.
 ### Idiomas: Inglés (B2 en progreso) | Español (Nativo).
 ## PROYECTOS DESTACADOS Y OPEN SOURCE
 NexLogix (Full-Stack): Desarrollo de plataforma logística con React y FastAPI, implementando gestión de
@@ -48,7 +47,7 @@ Asesor de Ventas y Soporte Técnico | AT&T
 Aumenté la resolución de incidencias en primer contacto en un 25% al diagnosticar fallas operativas y traducir
 soluciones técnicas complejas a lenguaje accesible.
 ## FORMACIÓN ACADÉMICA
-## Ingeniería en Computación y Telecomunicaciones
+### Ingeniería en Computación y Telecomunicaciones
 Universidad Autónoma Metropolitana (UAM) | Toluca, México
 Servicio Social: Desarrollo de Objetos de Aprendizaje (ODA) digitales y gestión de aulas virtuales (Beca
 vinculada).
