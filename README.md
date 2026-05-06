@@ -12,7 +12,7 @@
 </p>
 
 ## ¿Quien Soy?
-### Gonzalo Soto Jimenez
+# Gonzalo Soto Jimenez
 ## RESUMEN PROFESIONAL
 Ingeniero en Computación recién egresado enfocado en el desarrollo Backend (Python) y la automatización de
 procesos. Cuento con una base técnica sólida en APIs y bases de datos, complementada con experiencia laboral
