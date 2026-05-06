@@ -20,10 +20,14 @@ previa en logística y soporte técnico, lo que me ha dotado de habilidades clav
 presión y trabajo por objetivos. Busco integrarme a un equipo tecnológico donde pueda aportar mi alta capacidad
 de aprendizaje, adaptabilidad y enfoque en resultados.
 ## HABILIDADES TÉCNICAS
-### Lenguajes: Python (Intermedio), Java, SQL, JavaScript/TypeScript (Básico).
-### Tecnologías: FastAPI, React, Git, GitHub, Docker, PostgreSQL.
-### Metodologías y Habilidades: Metodologías Ágiles (Scrum), Trabajo en equipo, Troubleshooting, Análisis lógico, Adaptabilidad.
-### Idiomas: Inglés (B2 en progreso) | Español (Nativo).
+### Lenguajes 
+Python (Intermedio), Java, SQL, JavaScript/TypeScript (Básico).
+### Tecnologías 
+FastAPI, React, Git, GitHub, Docker, PostgreSQL.
+### Metodologías y Habilidades
+Metodologías Ágiles (Scrum), Trabajo en equipo, Troubleshooting, Análisis lógico, Adaptabilidad.
+### Idiomas
+Inglés (B2 en progreso) | Español (Nativo).
 ## PROYECTOS DESTACADOS Y OPEN SOURCE
 NexLogix (Full-Stack): Desarrollo de plataforma logística con React y FastAPI, implementando gestión de
 estados y arquitectura end-to-end.
