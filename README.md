@@ -29,16 +29,16 @@ Metodologías Ágiles (Scrum), Trabajo en equipo, Troubleshooting, Análisis ló
 ### Idiomas
 Inglés (B2 en progreso) | Español (Nativo).
 ## PROYECTOS DESTACADOS Y OPEN SOURCE
-NexLogix (Full-Stack): Desarrollo de plataforma logística con React y FastAPI, implementando gestión de
-estados y arquitectura end-to-end.
-API Trazabilidad (Backend): Creación de API RESTful en Python/FastAPI con operaciones CRUD y
-esquemas de validación de datos integrados.
-CLI DataOrganizer (Automatización): Programación de herramienta de línea de comandos (Python) para la
-clasificación y optimización masiva de archivos.
-GTrayectoriasRMR (Móvil): App en Android para el cálculo y control cinemático de robots diferenciales vía
-Bluetooth.
-Contribuciones Open Source: Resolución de 'Good First Issues' mejorando la documentación técnica y el
-tipado estático en repositorios públicos de Python en GitHub.
+### NexLogix (Full-Stack):
+Desarrollo de plataforma logística con React y FastAPI, implementando gestión de estados y arquitectura end-to-end.
+### API Trazabilidad (Backend): 
+Creación de API RESTful en Python/FastAPI con operaciones CRUD y esquemas de validación de datos integrados.
+### CLI DataOrganizer (Automatización): 
+Programación de herramienta de línea de comandos (Python) para la clasificación y optimización masiva de archivos.
+### GTrayectoriasRMR (Móvil): 
+App en Android para el cálculo y control cinemático de robots diferenciales vía Bluetooth.
+### Contribuciones Open Source: 
+Resolución de 'Good First Issues' mejorando la documentación técnica y el tipado estático en repositorios públicos de Python en GitHub.
 ## EXPERIENCIA PROFESIONAL
 Supervisor de Operaciones Logísticas | Zubale
 Incrementé el cumplimiento de KPIs de entrega en un 18% mediante el análisis de datos y liderazgo de equipos
